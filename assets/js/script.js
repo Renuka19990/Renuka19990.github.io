@@ -96,7 +96,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Abhishek Dukare";
+    document.title = "Portfolio | Renuka jagrwal";
     $("#favicon").attr("href", "assets/img/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
