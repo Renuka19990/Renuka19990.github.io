@@ -1,0 +1,49 @@
+[
+  {
+    "name": "E-learning",
+    "desc": "The objective of a language learning website is to provide an engaging platform for users to learn and master a new language. It aims to offer effective, personalized lessons, interactive activities, and cultural insights.",
+    "image": "E-Learning",
+    "category": "basicweb",
+" techstacks":[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+},
+{
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+},
+{
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+}
+],
+ "links": {
+      "view": "https://65ae1248e8f5d6f84a594efd--gilded-babka-e8f807.netlify.app/",
+      "code": "https://github.com/Renuka19990/bug-nirikshak-5678"
+    }
+  },
+  {
+    "name": "Sgar Cosmetics Clone",
+    "desc": "This project is a practice exercise to recreate the landing page of Sugar Cosmetics using HTML, CSS, and JavaScript. The objective is to enhance coding and testing skills..",
+    "image": "sugar",
+    "category": "basicweb",
+    "links": {
+      "view": "https://nimble-lolly-366135.netlify.app/",
+      "code": "https://github.com/Renuka19990/vibrant-coding-1234/tree/main/BOOTSRAP"
+    }
+  },
+  {
+    "name": "Figma Clone",
+    "desc": "This project is a practice exercise to recreate the landing page of figma design using HTML, CSS, and SCSS. The objective is to enhance coding and testing skills.",
+    "image": "figma",
+    "category": "basicweb",
+    "links": {
+      "view": "https://legendary-malabi-cfb639.netlify.app/",
+      "code": "https://github.com/Renuka19990/vibrant-coding-1234/tree/main/SASS"
+    }
+  }
+
+
+ 
+]
