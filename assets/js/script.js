@@ -284,7 +284,7 @@ resume1.addEventListener("click", function () {
     "https://drive.google.com/file/d/12HqGAzKzsRNu3DqvPVEYp7XKgV8UBcbu/view?usp=drive_link";
     
   const downloadUrl =
-    "https://www.dropbox.com/s/vryemzdjb9vrc81/Renuka%20Dukare.pdf?dl=1";
+    "https://drive.google.com/file/d/12HqGAzKzsRNu3DqvPVEYp7XKgV8UBcbu/view?usp=drive_link";
 
   window.open(previewUrl, "_blank");
   window.location.href = downloadUrl;
