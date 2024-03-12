@@ -47,7 +47,7 @@
     "name": "Airbnb Clone",
     "desc": "Our platform aims to connect travelers with unique accommodations offered by local hosts worldwide, providing a personalized and authentic experience.",
     "image": "Airbnb",
-    "category": "React",
+    "category": "React,Redux",
     "links": {
       "view": "https://airbnb-2a476f.netlify.app/",
       "code": "https://github.com/Renuka19990/AirBnb"
