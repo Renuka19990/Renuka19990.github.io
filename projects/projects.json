@@ -45,7 +45,7 @@
   },
   {
     "name": "Airbnb Clone",
-    "desc": "Welcome to our project, an innovative solution revolutionizing the way people travel and stay. Our platform aims to connect travelers with unique accommodations offered by local hosts worldwide, providing a personalized and authentic experience. With features like easy booking, secure payments, and detailed listings, we simplify the travel planning process, making it hassle-free for guests .",
+    "desc": "Our platform aims to connect travelers with unique accommodations offered by local hosts worldwide, providing a personalized and authentic experience.",
     "image": "Airbnb",
     "category": "React",
     "links": {
