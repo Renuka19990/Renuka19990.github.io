@@ -180,9 +180,9 @@ function showProjects(projects) {
   projectsContainer.innerHTML = projectHTML;
 
   // <!-- tilt js effect starts -->
-  VanillaTilt.init(document.querySelectorAll(".tilt"), {
-    max: 15,
-  });
+  // VanillaTilt.init(document.querySelectorAll(".tilt"), {
+  //   max: 15,
+  // });
   // <!-- tilt js effect ends -->
 
   /* ===== SCROLL REVEAL ANIMATION ===== */
@@ -294,6 +294,5 @@ resume1.addEventListener("click", function () {
 // PHone contact
 var contactPhoneIcon = document.getElementById("contact-phone");
 contactPhoneIcon.addEventListener("click", function () {
-    // Replace "1234567890" with the desired phone number
     window.location.href = "tel:9359021232";
 })

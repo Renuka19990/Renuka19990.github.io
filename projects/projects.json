@@ -44,13 +44,13 @@
     }
   },
   {
-    "name": "Figma  Landing Page Clone",
-    "desc": "This project is a practice exercise to recreate the landing page of Masai design using HTML, CSS, and SCSS. The objective is to enhance coding and testing skills.",
-    "image": "figma",
-    "category": "basicweb",
+    "name": "Airbnb Clone",
+    "desc": "Welcome to our project, an innovative solution revolutionizing the way people travel and stay. Our platform aims to connect travelers with unique accommodations offered by local hosts worldwide, providing a personalized and authentic experience. With features like easy booking, secure payments, and detailed listings, we simplify the travel planning process, making it hassle-free for guests .",
+    "image": "Airbnb",
+    "category": "React",
     "links": {
-      "view": "https://legendary-malabi-cfb639.netlify.app/",
-      "code": "https://github.com/Renuka19990/vibrant-coding-1234/tree/main/SASS"
+      "view": "https://airbnb-2a476f.netlify.app/",
+      "code": "https://github.com/Renuka19990/AirBnb"
     }
   }
 
