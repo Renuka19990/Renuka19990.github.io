@@ -280,13 +280,13 @@ srtop.reveal(".contact-c .container .form-group", { delay: 400 });
 
 var resume1 = document.getElementById("resume-button-1");
 resume1.addEventListener("click", function () {
-  const previewUrl =
-    "https://drive.google.com/file/d/12HqGAzKzsRNu3DqvPVEYp7XKgV8UBcbu/view?usp=drive_link";
+  // const previewUrl =
+  //   "https://drive.google.com/file/d/12HqGAzKzsRNu3DqvPVEYp7XKgV8UBcbu/view?usp=drive_link";
     
   const downloadUrl =
-    "https://drive.google.com/file/d/12HqGAzKzsRNu3DqvPVEYp7XKgV8UBcbu/view?usp=drive_link";
+    "https://drive.google.com/file/d/1pzPUvrAU-z9guizaJSJDLx5LxJ0l78rk/view?usp=sharing";
 
-  window.open(previewUrl, "_blank");
+  // window.open(previewUrl, "target");
   window.location.href = downloadUrl;
 });
 
